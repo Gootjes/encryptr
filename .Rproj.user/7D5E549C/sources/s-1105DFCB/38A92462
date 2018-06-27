@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1530031376586.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1231509773",
+    "id" : "38A92462",
+    "lastKnownWriteTime" : 1530096607,
+    "last_content_update" : 1530096607,
+    "path" : "C:/Users/p275309/projects/git/encryptR/example.Rmd",
+    "project_path" : "example.Rmd",
+    "properties" : {
+        "cursorPosition" : "18,29",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
