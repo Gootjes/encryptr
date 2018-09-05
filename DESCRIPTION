@@ -3,7 +3,6 @@ Type: Package
 Title: Encryption of R objects (AES encryption)
 Version: 1.0.0
 Author: Frank Gootjes
-Maintainer: Frank Gootjes <frankgootjes@gmail.com>
 Description: This package facilitates the (symmetric) encryption and decryption of R objects.
     It relies on the OpenSSL package for the underlying (AES-256 bit, CBC) cryptography.
 License: MIT
