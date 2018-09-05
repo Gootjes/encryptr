@@ -6,7 +6,7 @@ output: html_document
 
 ---
 
-```{r setup, include=FALSE, echo=FALSE, warning=F}
+```{r setup, include=FALSE, echo=FALSE, warning=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
@@ -21,4 +21,5 @@ encryptr::load("example.Rdata")
 
 ```{r}
 hist(example$y)
+a*3
 ```
