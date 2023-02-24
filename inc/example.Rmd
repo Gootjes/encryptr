@@ -1,0 +1,25 @@
+---
+title: "Test"
+author: "Frank"
+date: "26 juni 2018"
+output: html_document
+
+---
+
+```{r setup, include=FALSE, echo=FALSE, warning=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## R Markdown
+
+This is an example markdown document.
+
+```{r , echo=FALSE, warning=F,include=F}
+library(encryptr)
+encryptr::load("example.Rdata")
+```
+
+```{r}
+hist(example$y)
+a*3
+```
